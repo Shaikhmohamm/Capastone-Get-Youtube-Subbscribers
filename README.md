@@ -20,7 +20,6 @@ Get-Youtube-Subscribers is simple API based project where we have provided 3 dif
 >   - [🤖 Running get-youtube-subscriber-backend-project](#-running-get-youtube-subscriber-backend-project)
 >   - [🌐 Deployment Link](#-deployment-link)
 > - [📄 API Documentation](#-api-documentation)
-> - [🤝 Contributing](#-contributing)
 
 
 ## 📍 Overview
@@ -87,10 +86,10 @@ node index.js or npm start
 
 ### 🌐 Deployment-Link
 
-  You can access live api from [here]()
+  You can access live api from [here](https://capastone-get-youtube-subbscribers.onrender.com/)
 
 ---
 
 ## 📄 API Documentation
 
-You can visit API documentation from [here]()
+You can visit API documentation from [here](https://documenter.getpostman.com/view/32824294/2sA35D5iVy)
